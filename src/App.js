@@ -1,9 +1,7 @@
 import "aframe";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 
-//import Background from "./Background";
 import sky from "./star.jpg"
-//import Yamato from './Yamato';
 import mountain from "./models/mountain.glb";
 import rocketModel from "./models/yamato.glb";
 
