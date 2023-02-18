@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kazz12211.github.io/react-metaverse/static/css/main.e6c13ad2.css",
+    "main.js": "/kazz12211.github.io/react-metaverse/static/js/main.b0821d3b.js",
+    "static/media/yamato.glb": "/kazz12211.github.io/react-metaverse/static/media/yamato.85fc0582768d6c13a909.glb",
+    "static/media/mountain.glb": "/kazz12211.github.io/react-metaverse/static/media/mountain.4864f507c4a361e65bc8.glb",
+    "static/media/star.jpg": "/kazz12211.github.io/react-metaverse/static/media/star.315dc114c54810cee179.jpg",
+    "index.html": "/kazz12211.github.io/react-metaverse/index.html",
+    "main.e6c13ad2.css.map": "/kazz12211.github.io/react-metaverse/static/css/main.e6c13ad2.css.map",
+    "main.b0821d3b.js.map": "/kazz12211.github.io/react-metaverse/static/js/main.b0821d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0821d3b.js"
+  ]
+}
